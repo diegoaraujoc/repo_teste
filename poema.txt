@@ -1,7 +1,11 @@
-Poema sobre coisas que começam com C
+Poema sobre coisas que começam com C e com B também
 Carro
 Casa
 Camisa
 Coluna
 Creme
 Celular
+
+Bola
+Berço
+Bateria
